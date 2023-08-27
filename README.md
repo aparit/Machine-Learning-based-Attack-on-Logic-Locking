@@ -1,4 +1,4 @@
-# Readme File:
+
 # Machine-Learning-based-Attack-on-Logic-Locking
 
 Please find the report and code attached in this folder.
